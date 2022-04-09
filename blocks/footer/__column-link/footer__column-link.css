@@ -1,0 +1,18 @@
+.footer__column-link {
+    margin: 0;
+    text-decoration: none;
+    color: white;
+    line-height: 18px;
+    font-size: 18px;
+    font-weight:normal;
+    list-style-type: none; /* Убираем маркеры */
+    transition: opacity .4s linear;
+}
+
+.footer__column-link:nth-child(2) {
+    margin: 10px auto;
+}
+
+.footer__column-link:hover {
+  opacity: .7;
+}
