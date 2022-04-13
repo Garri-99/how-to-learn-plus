@@ -1,6 +1,7 @@
 .video__iframe {
-  list-style-type: none; /* Убираем маркеры */
   border: 0;
+  width: 515px;
+  height: 316px;
 }
 
 .video__iframe:nth-of-type(1) {
